@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @somaye-ds
+- 👀 I’m interested in Mathematics, programming and learning new things.
+- 🌱 I’m currently learning Data Science.
+- 💞️ I’m looking to collaborate to Data Scientists.
